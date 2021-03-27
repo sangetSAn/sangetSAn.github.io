@@ -6,7 +6,7 @@
   <link href="https://sangetsan.github.io/atom.xml" rel="self"/>
   
   <link href="https://sangetsan.github.io/"/>
-  <updated>2021-03-25T13:20:12.811Z</updated>
+  <updated>2021-03-27T08:11:06.820Z</updated>
   <id>https://sangetsan.github.io/</id>
   
   <author>
@@ -17,40 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>HelloWorld</title>
-    <link href="https://sangetsan.github.io/2021/03/21/HelloWorld/"/>
-    <id>https://sangetsan.github.io/2021/03/21/HelloWorld/</id>
-    <published>2021-03-21T09:47:49.000Z</published>
-    <updated>2021-03-25T13:20:12.811Z</updated>
+    <title>111</title>
+    <link href="https://sangetsan.github.io/2021/05/26/hello-world/"/>
+    <id>https://sangetsan.github.io/2021/05/26/hello-world/</id>
+    <published>2021-05-26T11:58:47.000Z</published>
+    <updated>2021-03-27T08:11:06.820Z</updated>
     
-    <content type="html"><![CDATA[<p>测试测试菜市场三</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;测试测试菜市场三&lt;/p&gt;
-</summary>
-      
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="111" scheme="https://sangetsan.github.io/categories/111/"/>
     
     
   </entry>
   
   <entry>
-    <title></title>
-    <link href="https://sangetsan.github.io/2021/03/21/hello-world/"/>
-    <id>https://sangetsan.github.io/2021/03/21/hello-world/</id>
-    <published>2021-03-21T09:42:27.395Z</published>
-    <updated>2021-03-25T13:10:09.063Z</updated>
+    <title>222</title>
+    <link href="https://sangetsan.github.io/2021/05/26/HelloWorld/"/>
+    <id>https://sangetsan.github.io/2021/05/26/HelloWorld/</id>
+    <published>2021-05-26T11:57:47.000Z</published>
+    <updated>2021-03-27T08:15:17.764Z</updated>
     
-    <content type="html"><![CDATA[<hr><h2 id="title-Hello-World"><a href="#title-Hello-World" class="headerlink" title="title: Hello World"></a>title: Hello World</h2><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-    <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;title-Hello-World&quot;&gt;&lt;a href=&quot;#title-Hello-World&quot; class=&quot;headerlink&quot; title=&quot;title: Hello World&quot;&gt;&lt;/a&gt;title: Hello World&lt;/h2&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
+    <content type="html"><![CDATA[<p>测试测试菜市场三</p><span id="more"></span>]]></content>
     
     
+    <summary type="html">&lt;p&gt;测试测试菜市场三&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://sangetsan.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
   </entry>
