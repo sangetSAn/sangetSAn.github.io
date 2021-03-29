@@ -2,16 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sangetsan.github.io/2021/05/26/HelloWorld/</loc>
+    <loc>https://sangetsan.github.io/2021/03/29/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
     
-    <lastmod>2021-03-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sangetsan.github.io/2021/05/26/hello-world/</loc>
-    
-    <lastmod>2021-03-27</lastmod>
+    <lastmod>2021-03-29</lastmod>
     
   </url>
   
@@ -48,14 +41,7 @@
 
   
   <url>
-    <loc>https://sangetsan.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2021-03-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sangetsan.github.io/categories/111/</loc>
+    <loc>https://sangetsan.github.io/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2021-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
